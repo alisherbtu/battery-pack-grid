@@ -54,5 +54,4 @@ Required: MATLAB, Simulink, Simscape, Simscape Electrical, Simscape Battery.
 ## Next steps
 - Add protection limits and cell balancing
 - Add a thermal model
-- Add an EKF-based SOC estimator# battery-pack-grid
-attery pack model for a grid-connected storage system (Simscape Battery)
+- Add an EKF-based SOC estimator
